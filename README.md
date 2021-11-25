@@ -1,4 +1,6 @@
 
+
+[![CodeFactor](https://www.codefactor.io/repository/github/asif78-00/m1_game_science-quiz/badge)](https://www.codefactor.io/repository/github/asif78-00/m1_game_science-quiz)
 # SCIENCE QUIZ GAME
 
 This is a simple science quiz game based on basic science. Objective of Quiz Contest is to facilitate a user friendly environment for all users. questions are chosen in such a a way that they cover all fields of  SCIENCE and technology. The user’s knowledge is tested with quiz questions regarding science and technology.the level of questions will be increasing step by step.
