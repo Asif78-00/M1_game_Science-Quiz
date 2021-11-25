@@ -1,5 +1,6 @@
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d4591f9c1afb45b29260409e8afa9dcc)](https://app.codacy.com/gh/Asif78-00/M1_game_Science-Quiz?utm_source=github.com&utm_medium=referral&utm_content=Asif78-00/M1_game_Science-Quiz&utm_campaign=Badge_Grade_Settings)
 [![CodeFactor](https://www.codefactor.io/repository/github/asif78-00/m1_game_science-quiz/badge)](https://www.codefactor.io/repository/github/asif78-00/m1_game_science-quiz)
 ![Code Quality Score](https://api.codiga.io/project/30049/score/svg)
 ![Code Grade](https://api.codiga.io/project/30049/status/svg)
