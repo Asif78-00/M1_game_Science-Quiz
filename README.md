@@ -3,6 +3,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/asif78-00/m1_game_science-quiz/badge)](https://www.codefactor.io/repository/github/asif78-00/m1_game_science-quiz)
 ![Code Quality Score](https://api.codiga.io/project/30049/score/svg)
 ![Code Grade](https://api.codiga.io/project/30049/status/svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cbadd2257c0d46d49a2ead4e32b765a9)](https://www.codacy.com/gh/Asif78-00/M1_game_Science-Quiz/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Asif78-00/M1_game_Science-Quiz&amp;utm_campaign=Badge_Grade)
 # SCIENCE QUIZ GAME
 
 This is a simple science quiz game based on basic science. Objective of Quiz Contest is to facilitate a user friendly environment for all users. questions are chosen in such a a way that they cover all fields of  SCIENCE and technology. The user’s knowledge is tested with quiz questions regarding science and technology.the level of questions will be increasing step by step.
